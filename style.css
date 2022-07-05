@@ -1,0 +1,25 @@
+body{
+     background-color: white;
+    }
+
+ h3{ 
+     color: gold;
+   }
+ h2{
+    color: gold;}
+
+ td {
+text-align: center; background-color: grey;
+ }
+
+ th{
+   background-color: grey;
+   
+   font-style: inherit;         }
+
+
+
+ .h3{ font-family: 'Times New Roman', Times, serif;
+color: rgb(52, 243, 52);
+font-size: larger;}
+
